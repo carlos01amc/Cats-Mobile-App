@@ -37,7 +37,6 @@ Users can search, view details and favorite breeds.
    - Polished UI
 
 ## Folder Structure
-
 ```
 CatsApp/
 ├── Models
