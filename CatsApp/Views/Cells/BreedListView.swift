@@ -27,7 +27,7 @@ struct BreedListView<Header: View>: View {
         self.isEndReached = isEndReached
     }
 
-    // Initializer for when there is no header just for convenience
+    
     init(
         breeds: [CatBreed],
         onSelect: @escaping (CatBreed) -> Void = { _ in },
